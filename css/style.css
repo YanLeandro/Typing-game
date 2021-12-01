@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(92, 90, 89);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', serif;
+    font-size: 30px;
+    position: absolute;
+    top: 10%;
+    left: 27%;
+   color: white;
+   background-image: url(/img/image.jpg);
+   background-size: cover;
+  
+ 
+}
+
+h1{
+    margin: 3%;
+}
+
+img{
+    border-radius: 80%;
+    position: absolute;
+    width: 600px;
+    top: 100%;
+    right: 20%;
+    visibility: inherit;
+}
+#img1{
+    position: absolute;
+    right: -35%;
+    top: 30%;
+    opacity: 0.2;
+    
+
+}
+
+#img2{
+    position: absolute;
+    left: -55%;
+    top: 30%;
+    opacity: 0.08;
+    
+
+}
+
+input{
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    border: 8px dotted rgb(218, 46, 46);
+    width: 5%;
+    
+}
+
+button{
+    width: 20%;
+    height: 20%;
+    border: 8px dotted rgb(218, 46, 46);
+    color: chocolate ;
+    font-size: 30px ;
+    border-radius: 8%;
+    background-color: rgb(10, 10, 10);
+
+}
+
+
+input{
+    width: 40%;
+    height: 10%;
+}
+
+
+.highlight {
+    background-color: yellow;
+  }
+  
+  .error {
+    background-color: lightcoral;
+    border: red;
+  }
